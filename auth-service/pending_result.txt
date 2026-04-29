@@ -1,0 +1,5 @@
+Total temp rows: 2003
+Pending temp rows: 0
+Valid temp rows: 2003
+Invalid temp rows: 0
+Total assets: 2002

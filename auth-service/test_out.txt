@@ -1,0 +1,4 @@
+Total Temp: 2003
+Valid Temp: 2003
+Invalid Temp: 0
+Assets: 2002

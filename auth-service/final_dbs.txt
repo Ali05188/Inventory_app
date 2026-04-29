@@ -1,0 +1,2 @@
+auth_db: cache,cache_locks,failed_jobs,job_batches,jobs,migrations,model_has_permissions,model_has_roles,password_reset_tokens,permissions,role_has_permissions,roles,sessions,users
+inventory_assets: asset_types,assets,locations,projects,suppliers
